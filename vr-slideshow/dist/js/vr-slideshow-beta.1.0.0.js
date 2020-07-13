@@ -33,7 +33,7 @@
 
 */
 
-(($, window, document, undefined) => {
+(function ($, window, document, undefined) {
 
     var pluginName = "vrSlideshow",
         defaults = {
