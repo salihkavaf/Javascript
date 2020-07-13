@@ -515,7 +515,6 @@
 
         /**
          * Updates the active jump link item.
-         * @param {number} index The index of the current slide to set the link for.
          */
         nextLink: function () {
             const active = this._jumpLinks.querySelector("span.active");
